@@ -1,0 +1,34 @@
+{
+  "name": "graal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-sass": "^3.4.1",
+    "bootstrap-vue": "^2.0.0-rc.14",
+    "faveeo-eagle.js": "^0.4.6",
+    "imports-loader": "^0.8.0",
+    "jquery": "^3.3.1",
+    "pug": "^2.0.3",
+    "velocity-animate": "^1.5.2",
+    "vue": "^2.6.10",
+    "vue-carousel": "^0.18.0",
+    "vue-plyr": "^5.1.3",
+    "vue-sidebar-menu": "^3.6.3",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
